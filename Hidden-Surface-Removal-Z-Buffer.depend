@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1531304554 source:d:\study\graphics codes\graphicsapimaking2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	<errno.h>
+	<deque>
+	<cstdlib>
+	"bitmap_image.hpp"
+
+1526315054 d:\study\graphics codes\graphicsapimaking2\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
